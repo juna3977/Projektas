@@ -1,2 +1,0 @@
-"# projektas" 
-Projektas projektas projektas
